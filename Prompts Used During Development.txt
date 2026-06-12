@@ -1,0 +1,126 @@
+# Prompts Used During Development
+
+### Prompt 1
+
+Create a simple 2D graphics editor in C language using a character canvas. The canvas should use '*' and '_' symbols for drawing.
+
+---
+
+### Prompt 2
+
+Write a C program that allows the user to draw different shapes like circle, rectangle, line and triangle on a 2D array.
+
+---
+
+### Prompt 3
+
+Store all shapes in an array of structures so that they can be displayed later.
+
+---
+
+### Prompt 4
+
+How can I draw a straight line in C using coordinates on a text-based canvas?
+
+---
+
+### Prompt 5
+
+Add a menu driven interface for the graphics editor with options:
+
+1. Add Shape
+2. Delete Shape
+3. Modify Shape
+4. Display Picture
+5. Exit
+
+---
+
+### Prompt 6
+
+Help me implement a rectangle drawing function using coordinates of two corners.
+
+---
+
+### Prompt 7
+
+Write a function to draw a circle outline on a character canvas in C.
+
+---
+
+### Prompt 8
+
+How can I draw a triangle using three vertices in C?
+
+---
+
+### Prompt 9
+
+Add input validation so users cannot enter coordinates outside the canvas size.
+
+---
+
+### Prompt 10
+
+Modify the program so that every shape stores its own drawing symbol.
+
+---
+
+### Prompt 11
+
+When a shape is deleted, redraw all remaining shapes automatically on the canvas.
+
+---
+
+### Prompt 12
+
+Create a function to list all shapes with their coordinates and symbols.
+
+---
+
+### Prompt 13
+
+Allow users to edit an existing shape without changing its type.
+
+---
+
+### Prompt 14
+
+Explain Bresenham's Line Algorithm in simple words and show how to use it in my project.
+
+---
+
+### Prompt 15
+
+Generate comments for my C code so that each function is easy to understand.
+
+---
+
+### Prompt 16
+
+Check my C graphics editor code and suggest improvements.
+
+---
+
+### Prompt 17
+
+Create a README file for my GitHub repository for a 2D Graphics Editor project written in C.
+
+---
+
+### Prompt 18
+
+Give me sample output for my graphics editor project.
+
+---
+
+### Prompt 19
+
+Help me prepare documentation for this project in student-friendly language.
+
+---
+
+### Prompt 20
+
+Explain the working of my project so that I can present it during viva.
+
